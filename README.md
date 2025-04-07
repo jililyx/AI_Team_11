@@ -19,3 +19,5 @@ Exploring different ways on how AI and Ethics come hand in hand.
 Understanding how to tackle AI Dilemmas and and the decisions that AI makes.  
 
 ## Responsible AI Summary 
+
+## References 
