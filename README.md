@@ -21,5 +21,5 @@ Understanding how to tackle AI Dilemmas and and the decisions that AI makes.
 ## Responsible AI Summary 
 
 ## References 
-https://research.google/pubs/lets-do-a-thought-experiment-using-counterfactuals-to-improve-moral-reasoning/
+[Let's Do a Thought Experiment: Using Counterfactuals to Improve Moral Reasoning](https://research.google/pubs/lets-do-a-thought-experiment-using-counterfactuals-to-improve-moral-reasoning/)
 
