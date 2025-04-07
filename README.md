@@ -10,10 +10,12 @@
 Responsible AI. 
 
 ## Project Details
+Exploring different ways on how AI and Ethics come hand in hand. 
 
 ## Website 
 [Ethical Decision Explorer](https://script.google.com/a/macros/wm.edu/s/AKfycbwa2BjP9QteXyv0JI0Uiz1qYVeD89bw1dD41F2lk-SseQxV_phRufW26gkRR2df_RG4wQ/exec)
 
 ## What's Next?
+Understanding how to tackle AI Dilemmas and and the decisions that AI makes.  
 
 ## Responsible AI Summary 
