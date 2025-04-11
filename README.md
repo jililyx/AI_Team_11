@@ -11,8 +11,7 @@
 ## Project Scope  
 ![claude and gemini logo](https://github.com/user-attachments/assets/572b4929-eebd-4455-bea9-192652ba5222)
 
-As large language models (LLMs) become increasingly integrated into decision-making systems, they must be equipped to reason through complex, value-laden situations.  
-Yet, current models underperform on **moral reasoning tasks**, such as those in the MMLU benchmark. This project explores how *responsible AI* can be improved by aligning model behavior with **ethical principles**.
+As large language models (LLMs) become increasingly integrated into decision-making systems, they must be equipped to reason through complex, value-laden situations. Yet, current models underperform on **moral reasoning tasks**, such as those in the MMLU benchmark. This project explores how *responsible AI* can be improved by aligning model behavior with **ethical principles**.
 
 ---
 
