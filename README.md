@@ -26,6 +26,9 @@ Exploring different ways on how AI and Ethics come hand in hand.
 Understanding how to tackle AI Dilemmas and and the decisions that AI makes. 
 A new prompting framework called "Thought Experiments" uses counterfactual thinking to encourage more comprehensive moral reasoning.
 
+![ethical image ](https://github.com/user-attachments/assets/22600356-47d3-48a6-a6ca-dcefea4ed555)
+
+
 ## Responsible AI Summary 
 
 ## References 
