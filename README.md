@@ -38,6 +38,29 @@ Users can:
 
 ---
 
+## Website Prompt 
+
+# Ethical Decision Explorer
+
+## Concept
+- A web-based tool that presents users with **moral dilemmas**.
+- Inspired by **Moral Scenarios** research.
+- Allows users to explore choices and understand ethical consequences through **counterfactual reasoning**.
+
+## Interactivity
+- Users are presented with a **scenario** and **multiple-choice actions**.
+- After making a choice, the website uses **GenAI** to:
+  - Generate possible outcomes.
+  - Highlight ethical implications.
+  - Simulate counterfactual scenarios (“what if…”).
+- Users can:
+  - **Explore different paths** based on their decisions.
+  - **Compare consequences** and reasoning outcomes.
+
+*Built using Google Apps Script and GenAI integration.*
+    
+---
+
 ## What's Next?  
 Understanding how LLMs can:
 - Make more **transparent and justifiable decisions**
@@ -61,7 +84,10 @@ This project contributes to **responsible AI development** by:
 - Demonstrating how counterfactual reasoning improves performance on moral judgment tasks  
 - Highlighting limitations of binary ethics and the need for **context-aware reasoning** in AI
 
----
+## [Kanban](https://github.com/users/jililyx/projects/6)
+
+Project Updates 
+
 
 ## References  
 - [Let’s Do a Thought Experiment: Using Counterfactuals to Improve Moral Reasoning (Ma et al., 2023)](https://research.google/pubs/lets-do-a-thought-experiment-using-counterfactuals-to-improve-moral-reasoning/)  
