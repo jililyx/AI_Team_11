@@ -39,23 +39,6 @@ Users can:
 
 ---
 
-## Website Prompt: Ethical Decision Explorer
-
-### Concept & Interactivity
-- A web-based tool that presents users with **moral dilemmas** inspired by **Moral Scenarios** research.
-- Users are shown a **scenario** with **multiple-choice actions**.
-- After a choice is made, **GenAI**:
-  - Generates possible outcomes.
-  - Highlights ethical implications.
-  - Simulates "what if" counterfactuals.
-- Users can:
-  - **Explore different decision paths**.
-  - **Compare ethical consequences** of each action.
-
-> 💡 *Built using Google Apps Script and GenAI integration.*
-  
----
-
 ## What's Next?  
 Understanding how LLMs can:
 - Make more **transparent and justifiable decisions**
@@ -85,5 +68,21 @@ This project contributes to **responsible AI development** by:
 
 
 ## References  
-- [Let’s Do a Thought Experiment: Using Counterfactuals to Improve Moral Reasoning (Ma et al., 2023)](https://research.google/pubs/lets-do-a-thought-experiment-using-counterfactuals-to-improve-moral-reasoning/)  
+- Research Article: [Let’s Do a Thought Experiment: Using Counterfactuals to Improve Moral Reasoning (Ma et al., 2023)](https://research.google/pubs/lets-do-a-thought-experiment-using-counterfactuals-to-improve-moral-reasoning/)
+  
+## Website Prompt: Ethical Decision Explorer
+
+### Concept & Interactivity
+- A web-based tool that presents users with **moral dilemmas** inspired by **Moral Scenarios** research.
+- Users are shown a **scenario** with **multiple-choice actions**.
+- After a choice is made, **GenAI**:
+  - Generates possible outcomes.
+  - Highlights ethical implications.
+  - Simulates "what if" counterfactuals.
+- Users can:
+  - **Explore different decision paths**.
+  - **Compare ethical consequences** of each action.
+
+> 💡 *Built using Google Apps Script and GenAI integration.*
+  
 
