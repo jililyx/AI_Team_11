@@ -38,9 +38,7 @@ Users can:
 
 ---
 
-## Website Prompt 
-
-# Ethical Decision Explorer
+## Website Prompt: Ethical Decision Explorer
 
 ## Concept
 - A web-based tool that presents users with **moral dilemmas**.
