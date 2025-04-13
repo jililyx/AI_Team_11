@@ -79,9 +79,9 @@ This project contributes to **responsible AI development** by:
 - Demonstrating how counterfactual reasoning improves performance on moral judgment tasks  
 - Highlighting limitations of binary ethics and the need for **context-aware reasoning** in AI
 
-## [Kanban](https://github.com/users/jililyx/projects/6)
+## Project Updates
 
-Project Updates 
+[Kanban](https://github.com/users/jililyx/projects/6)
 
 
 ## References  
