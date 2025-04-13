@@ -31,6 +31,7 @@ Users can:
 - Navigate through ethical scenarios
 - Choose between conflicting actions
 - View detailed analyses through four major ethical frameworks:
+  
   - **Utilitarianism**
   - **Deontology**
   - **Virtue Ethics**
@@ -40,23 +41,19 @@ Users can:
 
 ## Website Prompt: Ethical Decision Explorer
 
-## Concept
-- A web-based tool that presents users with **moral dilemmas**.
-- Inspired by **Moral Scenarios** research.
-- Allows users to explore choices and understand ethical consequences through **counterfactual reasoning**.
-
-## Interactivity
-- Users are presented with a **scenario** and **multiple-choice actions**.
-- After making a choice, the website uses **GenAI** to:
-  - Generate possible outcomes.
-  - Highlight ethical implications.
-  - Simulate counterfactual scenarios (“what if…”).
+### Concept & Interactivity
+- A web-based tool that presents users with **moral dilemmas** inspired by **Moral Scenarios** research.
+- Users are shown a **scenario** with **multiple-choice actions**.
+- After a choice is made, **GenAI**:
+  - Generates possible outcomes.
+  - Highlights ethical implications.
+  - Simulates "what if" counterfactuals.
 - Users can:
-  - **Explore different paths** based on their decisions.
-  - **Compare consequences** and reasoning outcomes.
+  - **Explore different decision paths**.
+  - **Compare ethical consequences** of each action.
 
-*Built using Google Apps Script and GenAI integration.*
-    
+> 💡 *Built using Google Apps Script and GenAI integration.*
+  
 ---
 
 ## What's Next?  
